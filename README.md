@@ -15,3 +15,4 @@ mvn archetype:generate \
 ```
 
 Update 1) Added JUnit testing to the project.
+Update 2) Added Android Support Library to the project.
