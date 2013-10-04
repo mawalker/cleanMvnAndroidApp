@@ -13,3 +13,5 @@ mvn archetype:generate \
   -DartifactId=testApp \
   -Dpackage=edu.vu.isis
 ```
+
+Update 1) Added JUnit testing to the project.
