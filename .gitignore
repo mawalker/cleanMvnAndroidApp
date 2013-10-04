@@ -9,12 +9,15 @@
 *.class
 
 # generated files
-bin/
-gen/
+testApp/bin/
+testApp/gen/
+
+testApp/target/
 
 # Local configuration file (sdk path, etc)
-local.properties
+testApp/local.properties
 
 # Eclipse project files
-.classpath
-.project
+testApp/.classpath
+testApp/.project
+
