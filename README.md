@@ -14,5 +14,5 @@ mvn archetype:generate \
   -Dpackage=edu.vu.isis
 ```
 
-Update 1) Added JUnit testing to the project.
+Update 1) Added JUnit testing to the project.<br>
 Update 2) Added Android Support Library to the project.
