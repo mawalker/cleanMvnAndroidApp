@@ -6,8 +6,11 @@ public class Test {
 
 	@org.junit.Test
 	public void test() {
-//		fail("Not yet implemented");
+
+		RandomClass r = new RandomClass();
+		if (r.getBool() != true) {
+			fail("Not yet implemented");
+		}
 	}
 
 }
-
