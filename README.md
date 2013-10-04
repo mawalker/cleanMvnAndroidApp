@@ -4,7 +4,7 @@ cleanMvnAndroidApp
 This is a clean maven android app
 
 made with the following command:
-
+```
 mvn archetype:generate \
   -DarchetypeArtifactId=android-quickstart \
   -DarchetypeGroupId=de.akquinet.android.archetypes \
@@ -12,3 +12,4 @@ mvn archetype:generate \
   -DgroupId=VanderbiltUniversity \
   -DartifactId=testApp \
   -Dpackage=edu.vu.isis
+```
